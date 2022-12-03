@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 5308706151512192577}
   - component: {fileID: 6560275549937418232}
   m_Layer: 0
-  m_Name: ModelPlaceholder
+  m_Name: acube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
