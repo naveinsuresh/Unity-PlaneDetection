@@ -8,9 +8,18 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/planedetect.unity
     guid: 6bdce89659816455b9f906fc62d19910
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/model manipulation.unity
     guid: f5c3b2eaf6d844624b9f5951c4f7e694
+  - enabled: 0
+    path: Assets/Scenes/BoundsControlExamples 1.unity
+    guid: 524979536b67e48eaad6f944b950b4ab
+  - enabled: 0
+    path: Assets/Scenes/MRTK ObjectManip.unity
+    guid: 693b764b71b7c4265ace0d10a4d8e6d7
+  - enabled: 1
+    path: Assets/MRTK/Examples/Demos/SpatialAwareness/Scenes/SpatialAwarenessMeshDemo.unity
+    guid: 9db181581e617224e962601f062da844
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
       type: 2}
